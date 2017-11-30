@@ -1,0 +1,17 @@
+﻿Build started 07/11/2017 2:40:59 PM.
+     1>Project "C:\Users\Kathryn\Documents\V_Write\V_Write\V_Write.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\V_Write.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         V_Write.vcxproj -> C:\Users\Kathryn\Documents\V_Write\Debug\V_Write.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\V_Write.unsuccessfulbuild".
+         Touching "Debug\V_Write.lastbuildstate".
+     1>Done Building Project "C:\Users\Kathryn\Documents\V_Write\V_Write\V_Write.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27

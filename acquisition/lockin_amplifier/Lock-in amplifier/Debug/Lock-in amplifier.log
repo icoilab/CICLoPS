@@ -1,0 +1,17 @@
+﻿Build started 07/11/2017 1:45:44 PM.
+     1>Project "C:\Users\Kathryn\Documents\Academics\Lock-in amplifier\Lock-in amplifier\Lock-in amplifier.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lock-in amplifier.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lock-in amplifier.vcxproj -> C:\Users\Kathryn\Documents\Academics\Lock-in amplifier\Debug\Lock-in amplifier.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lock-in amplifier.unsuccessfulbuild".
+         Touching "Debug\Lock-in amplifier.lastbuildstate".
+     1>Done Building Project "C:\Users\Kathryn\Documents\Academics\Lock-in amplifier\Lock-in amplifier\Lock-in amplifier.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.27

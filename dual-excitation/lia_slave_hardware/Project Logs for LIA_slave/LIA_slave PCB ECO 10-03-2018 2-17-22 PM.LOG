@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VTIA Pin=vtia-1
-Removed Pin From Net: NetName=GND Pin=vtia-2
-Removed Member From Class: ClassName=LIA_slave Member=vtia
-Added Member To Class: ClassName=LIA_slave Member=Component C3 GRM155R61C225KE11D
-Added Member To Class: ClassName=LIA_slave Member=Component LED driver OPA171

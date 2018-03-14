@@ -1,3 +1,0 @@
-Change Class Name : Old Net Name=LIA New Net Name=LIA_slave
-Change Room Name: Old Name=LIA New Name=LIA_slave
-Change Room Scope: Old Scope=InComponentClass('LIA') New Scope=InComponentClass('LIA_slave')

@@ -1,5 +1,5 @@
-# Cost-Effective, Open-Source Photometry for Ultra Low-Light Level Applications
-Design files and assembly instructions for the CICLoPS ultrasensitive optoelectronic system for in-vivo fiber photometry system
+# CICLoPS Photometry Project
+Open source in-vivo fiber photometry for low-light level recordings
 
 # Background
 Fiber photometry is a tool used in neuroscience to optically monitor neural correlates of behavior to targeted neuronal populations in the brain. When applied to study neurons genetically-targeted to express optical reporters of local physiological dynamics, the experimentalist gains access to real-time activity of arbitrary neuronal populations during behavioral assays. 
@@ -8,7 +8,7 @@ The technology surrounding photometry has matured rapidly, and multiple systems 
 
 # Components
 ![](https://github.com/kpc-simone/CICLoPS/blob/master/ciclops_bd.png)
-CICLoPS is a complete solution for in-vivo fiber photometry, designed specifically to monitor neural activity with low-light levels. The Construction and Assembly Guide for the [core system](../../tree/master/ciclops-core "ciclops-core") refers to source files in the [optical system](../../tree/master/ciclops-core/optics "optics"), [coherent detection hardware](../../tree/master/ciclops-core/electronics "electronics"), and [code for data acquisition](../../tree/master/ciclops-core/acquisition "acquisition"). Instructions on how to achieve [additional functions](../../tree/master/features) are also provided.
+CICLoPS is a complete solution for in-vivo fiber photometry, designed specifically to monitor neural activity with low-light levels. The Construction and Assembly Guide for the [core system](../../tree/master/ciclops-core "ciclops-core") refers to source files in the [optical system](../../tree/master/ciclops-core/optics "optics"), [coherent detection hardware](../../tree/master/ciclops-core/electronics "electronics"), and [code for data acquisition](../../tree/master/ciclops-core/acquisition "acquisition"). Instructions on how to achieve [additional functions](../../tree/2x-artifact) are also provided.
 
 # Related Work
 This development builds on the prior contributions from several others, listed below.

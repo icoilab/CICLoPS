@@ -8,7 +8,7 @@ The technology surrounding photometry has matured rapidly, and multiple systems 
 
 # Components
 ![](https://github.com/kpc-simone/CICLoPS/blob/master/ciclops_bd.png)
-CICLoPS is a complete solution for in-vivo fiber photometry, designed specifically to monitor neural activity with low-light levels. The Construction and Assembly Guide for the [core system](../../tree/master/ciclops-core "ciclops-core") refers to source files in the [optical system](../../tree/master/ciclops-core/optics "optics"), [coherent detection hardware](../../tree/master/ciclops-core/electronics "electronics"), and [code for data acquisition](../../tree/master/ciclops-core/acquisition "acquisition"). 
+CICLoPS is a complete solution for in-vivo fiber photometry, designed specifically to monitor neural activity with low-light levels. The Construction and Assembly Guide for the [core system](../../tree/master/ciclops-core "ciclops-core") refers to source files in the [optical system](../../tree/master/ciclops-core/optics "optics"), [coherent detection hardware](../../tree/master/ciclops-core/electronics "electronics"), and [code for data acquisition](../../tree/master/ciclops-core/acquisition "acquisition"). Instructions on how to achieve [additional functions](../../tree/2x-artifact) are also provided.
 
 # Related Work
 This development builds on the prior contributions from several others, listed below.

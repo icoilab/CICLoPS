@@ -1,0 +1,35 @@
+Installation instructions for CICLoPS data acquisition API
+
+toolchain
+Allegro 4.2 (included in this folder)
+
+NI-DAQmx driver: 
+https://www.ni.com/nisearch/app/main/p/bot/no/ap/tech/lang/en/pg/1/sn/catnav:du,n8:3478.41.181.5495,ssnav:ndr/
+
+Microsoft Visual C++ 2010 Express:
+https://www.microsoft.com/en-ca/download/details.aspx?id=5555
+
+To install allegro: 
+copy bin to MS Install Directory > VC > bin
+copy lib to MS Install Directory > VC > lib
+copy include to MS Install Directory > VC > include
+
+tips and troubleshooting:
+Show file extensions by changing your 'File and Folder Properties'
+Compiled with NI-DAQmx 18.5
+Check Visual Studio Project Configuration Properties
+- VC++
+	- Include Directories: <National Instruments Install Path>\NI-DAQ\DAQmx ANSI C Dev\include
+	- Library Directories: <National Instruments Install Path>\NI-DAQ\DAQmx ANSI C Dev\lib\msvc
+- C\C++
+	- General
+		- Warning Level: Level 3 (/W3)
+	- Optimization
+		- Optimization: Disabled
+- Linker
+	- General
+		- Additional Library Directories
+	- Input
+		- alld.lib; nidaqmx.lib
+	- Debugging: YES (/DEBUG)
+	
